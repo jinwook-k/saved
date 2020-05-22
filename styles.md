@@ -2,3 +2,4 @@
 - [my border animation collection on codepen](https://codepen.io/collection/Xwpqrj?grid_type=list)
 - cyberpunk style css, [augmented-ui](https://augmented-ui.com/)
 - [cssfx](https://cssfx.netlify.app/)
+- https://www.tutorialspoint.com/Animate-CSS-outline
