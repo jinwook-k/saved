@@ -1,0 +1,4 @@
+- [cool border animation youtube tutorial](https://www.youtube.com/watch?v=zFimhFbPpRs)
+- [my border animation collection on codepen](https://codepen.io/collection/Xwpqrj?grid_type=list)
+- cyberpunk style css, [augmented-ui](https://augmented-ui.com/)
+- [cssfx](https://cssfx.netlify.app/)
